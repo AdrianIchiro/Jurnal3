@@ -1,0 +1,10 @@
+D:\mod3_1302220018\mod3_1302220018\bin\Debug\mod3_1302220018.exe.config
+D:\mod3_1302220018\mod3_1302220018\bin\Debug\mod3_1302220018.exe
+D:\mod3_1302220018\mod3_1302220018\bin\Debug\mod3_1302220018.pdb
+D:\mod3_1302220018\mod3_1302220018\obj\Debug\mod3_1302220018.csproj.AssemblyReference.cache
+D:\mod3_1302220018\mod3_1302220018\obj\Debug\mod3_1302220018.Form1.resources
+D:\mod3_1302220018\mod3_1302220018\obj\Debug\mod3_1302220018.Properties.Resources.resources
+D:\mod3_1302220018\mod3_1302220018\obj\Debug\mod3_1302220018.csproj.GenerateResource.cache
+D:\mod3_1302220018\mod3_1302220018\obj\Debug\mod3_1302220018.csproj.CoreCompileInputs.cache
+D:\mod3_1302220018\mod3_1302220018\obj\Debug\mod3_1302220018.exe
+D:\mod3_1302220018\mod3_1302220018\obj\Debug\mod3_1302220018.pdb
